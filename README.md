@@ -7,3 +7,5 @@
 - AWS SAA CO3
 
 ### 강의 
+- fastcampus 데이터 엔지니어링
+- fastcampus 데이터 사이언스
