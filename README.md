@@ -17,8 +17,18 @@ Java 기초
 Python 기초  
 Scala 기초  
 JVM  
-
-
+웹 서비스와 데이터 기초  
+RDBMS와 JDBC를 이용해서 데이터 처리하기  
+NoSQL(MongoDB) 이용해서 데이터 관리하기  
+CacheDB로 응답시간 빠르게 만들기  
+DNS로 서비스 노출하기  
+LoadBalancer로 트래픽 분산하기   
+웹서버로 콘텐츠 구분해서 서빙하기  
+API Gateway  
+EFK로 서버 로그 수집하기  
+RDBMS 구조와 동작 방식  
+Data Modeling  
+엔지니어링 설계와 의사결정  
 **데이터 사이언스**  
 
 ### 📔 책  
