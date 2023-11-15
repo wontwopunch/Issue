@@ -12,7 +12,13 @@ AWS SAA CO3
 
 ### 💻 강의  
 **데이터 엔지니어링** ➡️  
-Java 강의  
+Linux  
+Java 기초  
+Python 기초  
+Scala 기초  
+JVM  
+
+
 **데이터 사이언스**  
 
 ### 📔 책  
